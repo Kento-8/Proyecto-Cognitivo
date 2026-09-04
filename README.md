@@ -20,3 +20,13 @@ Semana 5
 <img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/f2fccc59-0762-4683-aa61-55c58349b763" />
 <img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/a3419af7-21b6-48d4-9e0a-ff011fd7c8eb" />
 
+Semana 6
+Ruido: Si le subes un contrato escaneado a la IA y el documento tiene manchas, errores tipográficos o páginas repetidas, eso es ruido visual o textual. 
+la IA actúa como gatekeeper en la "puerta de entrada" del despacho, se encarga de:
+•	Triage automatizado: Recibe al cliente potencial (por WhatsApp o web), entiende su problema mediante lenguaje natural y precalifica el caso. 
+•	Filtro de asesoría: Responde preguntas logísticas básicas (horarios, tarifas, si el despacho lleva o no casos de familia) pero, cuando el usuario pide un consejo legal específico, la IA se detiene. 
+•	Conversión a pago: Le aclara cordialmente al usuario que no da asesoría legal por esa vía y lo redirige a agendar una consulta formal de pago con un abogado humano
+
+Reglas de Delimitación Legal
+
+Prohibición de Asesoría Directa: La IA no debe emitir dictámenes, resolver estrategias procesales ni dar consejos legales definitivos a clientes finales de forma autónoma.Advertencia de Uso (Disclaimer): Toda respuesta dirigida a un usuario externo debe incluir un mensaje visible que aclare que la interacción es puramente informativa y no constituye una relación abogado-cliente.Escalada Humana Obligatoria: Cuando el usuario realice consultas de alta complejidad o mencione plazos urgentes (como un vencimiento de términos o una demanda en curso), la IA debe cortar la interacción amablemente y transferir el caso a un abogado humano.
