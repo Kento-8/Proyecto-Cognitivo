@@ -46,6 +46,3 @@ A continuación, se simula el diseño de esta base de datos mediante la siguient
 | Semántica (LTM) | Reglas de Delimitación Legal (Gatekeeper) | Instrucciones estrictas de compliance para evitar la asesoría directa, realizar triage automatizado y exigir escalada humana. | "Filtro: Si el usuario menciona plazos urgentes (ej. vencimiento de términos de una demanda), transferir a abogado humano." |
 | Episódica (LTM) | Perfil y Contexto del Usuario | Datos clave del estudiante actual, historial del caso en curso, narrativa de los hechos y estado de las pruebas solicitadas. | "Usuario: Estudiante; Situación: Recibió una amenaza de sanción de la empresa; Documentos: Contrato escaneado subido." |
 
-> **Nota de Procesamiento Cognitivo:** El flujo de transformación desde los *Inputs Crudos* hacia los *Inputs Representativos* y la posterior estrategia de defensa se ilustra en el siguiente esquema:
-
-![Esquema de Procesamiento Legal](assets/diagrama-canva.png)
