@@ -48,7 +48,7 @@ A continuación, se simula el diseño de esta base de datos mediante la siguient
 
 Semana 8
 
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/76d5b032-3f51-43b6-bdcb-dd77bb48a1fe" />
+<img width="1024" height="580" alt="image" src="https://github.com/user-attachments/assets/f1868985-ed61-4a73-b358-fca8107380af" />
 
 Semana 9
 
@@ -60,7 +60,7 @@ Semana 10
 
 Semana 11
 
-<img width="1024" height="580" alt="image" src="https://github.com/user-attachments/assets/f1868985-ed61-4a73-b358-fca8107380af" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/76d5b032-3f51-43b6-bdcb-dd77bb48a1fe" />
 
 Semana 12 
 ## Paso 3: El Guion de Hollywood (Semana 12 - GitHub) 🎬
