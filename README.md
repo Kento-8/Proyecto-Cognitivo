@@ -46,3 +46,49 @@ A continuación, se simula el diseño de esta base de datos mediante la siguient
 | Semántica (LTM) | Reglas de Delimitación Legal (Gatekeeper) | Instrucciones estrictas de compliance para evitar la asesoría directa, realizar triage automatizado y exigir escalada humana. | "Filtro: Si el usuario menciona plazos urgentes (ej. vencimiento de términos de una demanda), transferir a abogado humano." |
 | Episódica (LTM) | Perfil y Contexto del Usuario | Datos clave del estudiante actual, historial del caso en curso, narrativa de los hechos y estado de las pruebas solicitadas. | "Usuario: Estudiante; Situación: Recibió una amenaza de sanción de la empresa; Documentos: Contrato escaneado subido." |
 
+Semana 8
+
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/76d5b032-3f51-43b6-bdcb-dd77bb48a1fe" />
+
+Semana 9
+
+<img width="804" height="385" alt="image" src="https://github.com/user-attachments/assets/8a44c334-08f5-4b96-8f91-cb175a90c87a" />
+
+Semana 10
+
+<img width="1024" height="557" alt="image" src="https://github.com/user-attachments/assets/13c1b58f-f567-41f2-b414-ff2496927fde" />
+
+Semana 11
+
+<img width="1024" height="580" alt="image" src="https://github.com/user-attachments/assets/f1868985-ed61-4a73-b358-fca8107380af" />
+
+Semana 12 
+## Paso 3: El Guion de Hollywood (Semana 12 - GitHub) 🎬
+
+Para demostrar cómo funciona nuestro bot final de forma integrada, a continuación se presenta una simulación corta en formato "obra de teatro" o chat interactivo. Hemos utilizado el símbolo `>` en Markdown para simular visualmente la interfaz y el ritmo de una conversación:
+
+> **Usuario:** ¡Hola! Qué alegría, otra demanda más en mi contra. ¡Me encanta recibir notificaciones judiciales los viernes por la tarde! Es mi pasatiempo favorito. 🙄 Me llegó una notificación de embargo de cuentas y no entiendo nada. ¿Ahora qué hago, me voy a vivir debajo de un puente?
+
+> **K.D. (Bot):** ¡Hola! Entiendo perfectamente que recibir una notificación judicial de embargo y más un viernes por la tarde es una situación sumamente estresante y que genera mucha frustración. ⚖️ No te preocupes, no tienes que resignarte a eso. Vamos a analizar esto paso a paso para ver tus opciones reales.
+
+> **Usuario:** Sí claro, como si un robot fuera a salvar mis cuentas. ¡Espléndido! A ver, "genio", ¿por dónde se supone que empiece si ya me congelaron todo?
+
+> **K.D. (Bot):** Comprendo tu escepticismo, y sé que la situación es urgente. Aunque soy un asistente virtual, puedo guiarte con los primeros pasos legales cruciales para enfrentar un embargo. 🛡️
+> 
+> Para ayudarte mejor, ¿podrías confirmarme lo siguiente?
+> 1. ¿La notificación es de un juzgado o de una entidad de cobranza/banco?
+> 2. ¿Menciona algún plazo específico para responder (por ejemplo, 5 o 10 días)?
+
+> **Usuario:** Es de un Juzgado Civil, dice "Mandamiento de pago y embargo". Y habla de 10 días para "excepciones". Pero claro, como el sistema es tan "rápido" y "justo", seguro ya perdí.
+
+> **K.D. (Bot):** Gracias por el detalle. Que sea de un Juzgado Civil y mencione "excepciones" en un plazo de 10 días es una información clave. Esto significa que estamos dentro del término legal para actuar y defendernos. ⏳ No dejes pasar los 10 días: ese plazo es vital para presentar tus excepciones (defensas) antes de que el embargo quede en firme sin oposición.
+
+> **Usuario:** Bueno... al menos no suena tan inútil. Sí, es una deuda vieja de una tarjeta que ya "según yo" había pagado a medias hace años. Pero, ¿cómo presento esas excepciones? Yo no soy abogado.
+
+> **K.D. (Bot):** ¡Eso es un excelente punto de partida! Si la deuda es muy antigua o ya habías abonado, podríamos estar ante una "prescripción" o "pago parcial", que son excepciones legales muy potentes. 📝
+> 
+> Dado que es un proceso judicial formal en un Juzgado Civil, necesitarás el acompañamiento de un abogado para radicar formalmente estas excepciones. ¿Te gustaría que te contactemos con un especialista de nuestro equipo?
+
+> **Usuario:** Vaya, gracias. Pensé que solo me darías respuestas automáticas sin sentido. Creo que necesitaré que me contacten con un especialista de su equipo, por favor.
+
+> **K.D. (Bot):** ¡Para eso estoy aquí! Me alegra que hayamos podido aclarar el panorama. Por favor, confírmame tu correo electrónico y un número de teléfono. Un abogado especialista de nuestro equipo te contactará en un plazo máximo de 12 horas hábiles. Mientras tanto, ¡no te preocupes, ya estamos en marcha! 🤝
