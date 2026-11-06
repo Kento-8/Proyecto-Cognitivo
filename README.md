@@ -92,3 +92,13 @@ Para demostrar cómo funciona nuestro bot final de forma integrada, a continuaci
 > **Usuario:** Vaya, gracias. Pensé que solo me darías respuestas automáticas sin sentido. Creo que necesitaré que me contacten con un especialista de su equipo, por favor.
 
 > **K.D. (Bot):** ¡Para eso estoy aquí! Me alegra que hayamos podido aclarar el panorama. Por favor, confírmame tu correo electrónico y un número de teléfono. Un abogado especialista de nuestro equipo te contactará en un plazo máximo de 12 horas hábiles. Mientras tanto, ¡no te preocupes, ya estamos en marcha! 🤝
+
+Semana 13
+<img width="1024" height="572" alt="WhatsApp Image 2026-11-06 at 10 52 46 AM" src="https://github.com/user-attachments/assets/ea5cd54f-436c-4f3d-acf2-9f1b758e5a26" />
+
+Semana 14
+<img width="1024" height="572" alt="WhatsApp Image 2026-11-06 at 11 01 57 AM" src="https://github.com/user-attachments/assets/f2e35530-1319-4938-8c50-76b4b59435bb" />
+
+Semana 15
+<img width="1024" height="572" alt="WhatsApp Image 2026-11-06 at 11 16 43 AM" src="https://github.com/user-attachments/assets/b56f47da-97a8-452f-88d4-14fa8537806c" />
+
